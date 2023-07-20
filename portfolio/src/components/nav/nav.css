@@ -1,0 +1,22 @@
+.nav-link {
+  /* Add your desired styles for the navigation links */
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  /* Add any styles for hover effects if needed */
+  background-color: #333;
+  border-radius: 2rem;
+}
+
+.active {
+  /* Add styles for the active link */
+  background-color: #444;
+  border-radius: 2rem;
+  font-weight: bold;
+}

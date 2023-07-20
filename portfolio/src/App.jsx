@@ -11,8 +11,8 @@ import AboutMe from "./components/aboutMe/AboutMe";
 const App = () => {
   return (
     <>
-      <Header />
       <Nav />
+      <Header />
       <AboutMe />
       <Expirence />
       <Portfolio />
