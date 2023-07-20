@@ -35,7 +35,7 @@ const ContactMe = () => {
   return (
     <section
       id="contact"
-      className="flex flex-wrap justify-center gap-3 min-h-screen fix-less"
+      className="flex flex-wrap justify-center gap-3 min-h-screen fix"
     >
       <div className="flex flex-wrap flex-col text-center">
         <h2 className="text-3xl">Enter The Feilds in Below To</h2>

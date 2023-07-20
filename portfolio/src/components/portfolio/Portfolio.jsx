@@ -67,18 +67,16 @@ const Portfolio = () => {
       id="portfolio"
       className="flex flex-wrap justify-center min-h-screen"
     >
-      <div>
-        <h2 className="text-center text-3xl mb-4">
-          Have A Look At Some Of My Previous Projects
-        </h2>
-        <h1 className="text-center text-4xl mb-8">Projects</h1>
+      <div className="flex flex-wrap flex-col text-center w-full fix">
+        <h2 className="text-3xl">Skills I Have</h2>
+        <h1 className="text-4xl">My Expirence</h1>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 fix">
         {data.map(({ id, image, altimage, title, github, liveApp }) => {
           return (
             <article
               key={id}
-              className="text-center bg-gray-900 fix-less rounded-2xl"
+              className="text-center bg-gray-900 fix-less rounded-2xl imgHover"
             >
               <h1 className="text-4xl fix-less">{title}</h1>
               <div>

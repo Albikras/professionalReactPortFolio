@@ -55,7 +55,9 @@ const AboutMe = () => {
               blanditiis provident.
             </p>
             <div className="flex justify-center">
-              <a className="btn fix-less">Contact Me</a>
+              <a href="#contact" className="btn fix-less">
+                Contact Me
+              </a>
             </div>
           </div>
         </div>

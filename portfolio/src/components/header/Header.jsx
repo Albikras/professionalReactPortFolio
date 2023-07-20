@@ -28,6 +28,9 @@ const Header = () => {
             ></img>
           </div>
           <Socials />
+          <a href="#contact" className="text-lg sm:text-xl md:text-2xl">
+            Scroll Down
+          </a>
           <h2 className="text-lg sm:text-xl md:text-2xl">
             Or you can scroll or use the navigation bar
           </h2>

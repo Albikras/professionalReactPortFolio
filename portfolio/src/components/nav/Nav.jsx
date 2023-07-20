@@ -16,7 +16,6 @@ const Nav = () => {
     const experienceSection = document.getElementById("expirence");
     const portfolioSection = document.getElementById("portfolio");
     const contactSection = document.getElementById("contact");
-    const footerSection = document.getElementById("footer");
 
     const sections = [
       { section: homeSection, id: "#home" },
@@ -24,7 +23,6 @@ const Nav = () => {
       { section: experienceSection, id: "#expirence" },
       { section: portfolioSection, id: "#projects" },
       { section: contactSection, id: "#contact" },
-      { section: footerSection, id: "#footer" },
     ];
 
     const scrollTop = window.scrollY + 100;
@@ -83,13 +81,6 @@ const Nav = () => {
         className={`nav-link ${navbar === "#contact" ? "active" : ""}`}
       >
         <AiFillMessage className="text-5xl" />
-      </a>
-      <a
-        href="#footer"
-        onClick={() => setNav("#contact")}
-        className={`nav-link ${navbar === "#contact" ? "active" : ""}`}
-      >
-        <PiFootprintsFill className="text-5xl" />
       </a>
     </nav>
   );
