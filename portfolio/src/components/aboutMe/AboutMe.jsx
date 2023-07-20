@@ -11,8 +11,8 @@ const AboutMe = () => {
   return (
     <section id="about" className="flex flex-col items-center gap-2">
       <div className="flex flex-col items-center gap-2 fix-less">
-        <h2>Learn</h2>
-        <h1>About Me</h1>
+        <h2 className="text-3xl">Learn</h2>
+        <h1 className="text-4xl">About Me</h1>
       </div>
 
       <div className="flex flex-col md:flex-row gap-2">

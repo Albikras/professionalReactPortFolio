@@ -38,8 +38,8 @@ const ContactMe = () => {
       className="flex flex-wrap justify-center gap-3 min-h-screen fix-less"
     >
       <div className="flex flex-wrap flex-col text-center">
-        <h2>Enter The Feilds in Below To</h2>
-        <h1>Contact Me</h1>
+        <h2 className="text-3xl">Enter The Feilds in Below To</h2>
+        <h1 className="text-4xl">Contact Me</h1>
       </div>
       <div className="flex flex-wrap w-full justify-evenly">
         <div className="flex flex-wrap flex-col basis-1/6 gap-9">

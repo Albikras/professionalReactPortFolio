@@ -6,8 +6,8 @@ const Expirence = () => {
   return (
     <section id="expirence" className="flex flex-wrap justify-center fix">
       <div className="flex flex-wrap flex-col text-center w-full fix">
-        <h2>Skills I Have</h2>
-        <h1>My Expirence</h1>
+        <h2 className="text-3xl">Skills I Have</h2>
+        <h1 className="text-4xl">My Expirence</h1>
       </div>
       <div className="flex flex-wrap w-full justify-evenly gap-3">
         <div className="flex flex-wrap w-full md:w-1/3 justify-center gap-4 fix bg-gray-900 rounded-3xl imgHover">
