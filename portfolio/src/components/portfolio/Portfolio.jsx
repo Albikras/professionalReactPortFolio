@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     image: bookApp,
-    title: "BookFlix",
+    title: "BookFlix and Chill",
     altimg: "application image",
     github: "https://github.com/JohnDavidSmith/Book-Database",
     liveApp: "https://stormy-atoll-29529-b51ffbbd6de0.herokuapp.com/",

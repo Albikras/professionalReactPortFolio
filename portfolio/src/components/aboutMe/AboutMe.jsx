@@ -1,5 +1,5 @@
 import React from "react";
-import lbImg from "../../images/Myname.jpg";
+import headshot from "../../images/headshot.JPG";
 
 import { FaAward } from "react-icons/fa";
 import { MdWork } from "react-icons/md";
@@ -18,7 +18,7 @@ const AboutMe = () => {
       <div className="flex flex-col md:flex-row gap-2">
         <div className="w-full md:w-1/3 flex justify-center">
           <img
-            src={lbImg}
+            src={headshot}
             className="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 xl:w-72 xl:h-72 imgHover bg-gray-900 rounded-full"
             alt="Albi Krasniqi"
           />

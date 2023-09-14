@@ -1,5 +1,5 @@
 import React from "react";
-import lbImg from "../../images/Myname.jpg";
+import fullbodyImg from "../../images/IMG_0137.JPG";
 import Socials from "./Socials";
 
 import "./header.css";
@@ -23,7 +23,7 @@ const Header = () => {
         <div className="flex flex-col flex-wrap items-center">
           <div className="flex justify-center">
             <img
-              src={lbImg}
+              src={fullbodyImg}
               className="w-full max-w-sm sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl imgHover"
             ></img>
           </div>
