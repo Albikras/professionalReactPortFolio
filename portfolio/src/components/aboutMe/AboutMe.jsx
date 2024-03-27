@@ -43,16 +43,7 @@ const AboutMe = () => {
           </div>
           <div className="flex flex-col gap-2 p-4">
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Laudantium vel et explicabo dolor alias, vitae eligendi nihil.
-              Laudantium cum deserunt quod nihil alias iusto facere? Ab aliquid
-              optio modi non voluptatibus voluptatum ipsa. Assumenda quisquam
-              praesentium provident nihil at cum doloribus, dolor labore soluta
-              odio? Autem vitae sunt, cumque mollitia, aliquam eligendi facere
-              excepturi modi quas sint ex! Voluptatum libero repudiandae
-              pariatur unde iusto dicta labore, ut delectus laudantium
-              recusandae in, possimus nostrum tenetur magni dolore tempora nisi
-              blanditiis provident.
+              Hi There, I'm Albi a 23 year old passionate coder located in the wonderful city of St.Catharines.  Ever since my first coding class in highschool I've always been hooked on coding and enjoyed making little projects here and there for fun.  I later decided to make use of this small hobbie that turned into a passion by going to the university of toronto coding bootcamp to aquire my certificate in the world of coding.  Currently i have been studying python as the bootcamp covered a lot of javascript in depth and i wanted to branch out and see how my coding abilities wiill do when dealing with an OOP.  During my education I worked as a fine dining server which gave me many invaluable expirences such as, customer service, instilling a strong work ethic into myself, helping me with my adaptability, teamwork, and a keen eye for detail,  these are qualities I try to bring to ever project I work on.  My hobbies now lie in coding and video games, I am very use to working in front of a screen for long periods of time.  I love coding it is definatly a passion of mine and I hope I can continue my exhilarating journey in the industry.   
             </p>
             <div className="flex justify-center">
               <a href="#contact" className="btn fix-less">
