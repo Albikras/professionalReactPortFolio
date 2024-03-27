@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Albikras/professionalReactPortFolio/static/css/main.9c98562b.css",
-    "main.js": "/Albikras/professionalReactPortFolio/static/js/main.9995b7c9.js",
-    "static/media/IMG_0137.JPG": "/Albikras/professionalReactPortFolio/static/media/IMG_0137.69067f08e6ee78c8b4ea.JPG",
-    "static/media/headshot.JPG": "/Albikras/professionalReactPortFolio/static/media/headshot.8d87cde18947194ed580.JPG",
-    "static/media/pokemon.png": "/Albikras/professionalReactPortFolio/static/media/pokemon.698324537e7cdf734209.png",
-    "static/media/blakcJackWebpage.png": "/Albikras/professionalReactPortFolio/static/media/blakcJackWebpage.72ba00a839a6a76993f4.png",
-    "static/media/bookflix.png": "/Albikras/professionalReactPortFolio/static/media/bookflix.db6544fdb14058d2cb13.png",
-    "static/media/quiz.png": "/Albikras/professionalReactPortFolio/static/media/quiz.e1509932ca0ddd32726d.png",
-    "static/media/daily.png": "/Albikras/professionalReactPortFolio/static/media/daily.3ddf866c529751b6f9a1.png",
-    "static/media/blog.png": "/Albikras/professionalReactPortFolio/static/media/blog.d9035301908897d66d3d.png",
-    "index.html": "/Albikras/professionalReactPortFolio/index.html",
-    "main.9c98562b.css.map": "/Albikras/professionalReactPortFolio/static/css/main.9c98562b.css.map",
-    "main.9995b7c9.js.map": "/Albikras/professionalReactPortFolio/static/js/main.9995b7c9.js.map"
+    "main.css": "/professionalReactPortFolio/static/css/main.9c98562b.css",
+    "main.js": "/professionalReactPortFolio/static/js/main.7e0876c6.js",
+    "static/media/IMG_0137.JPG": "/professionalReactPortFolio/static/media/IMG_0137.69067f08e6ee78c8b4ea.JPG",
+    "static/media/headshot.JPG": "/professionalReactPortFolio/static/media/headshot.8d87cde18947194ed580.JPG",
+    "static/media/pokemon.png": "/professionalReactPortFolio/static/media/pokemon.698324537e7cdf734209.png",
+    "static/media/blakcJackWebpage.png": "/professionalReactPortFolio/static/media/blakcJackWebpage.72ba00a839a6a76993f4.png",
+    "static/media/bookflix.png": "/professionalReactPortFolio/static/media/bookflix.db6544fdb14058d2cb13.png",
+    "static/media/quiz.png": "/professionalReactPortFolio/static/media/quiz.e1509932ca0ddd32726d.png",
+    "static/media/daily.png": "/professionalReactPortFolio/static/media/daily.3ddf866c529751b6f9a1.png",
+    "static/media/blog.png": "/professionalReactPortFolio/static/media/blog.d9035301908897d66d3d.png",
+    "index.html": "/professionalReactPortFolio/index.html",
+    "main.9c98562b.css.map": "/professionalReactPortFolio/static/css/main.9c98562b.css.map",
+    "main.7e0876c6.js.map": "/professionalReactPortFolio/static/js/main.7e0876c6.js.map"
   },
   "entrypoints": [
     "static/css/main.9c98562b.css",
-    "static/js/main.9995b7c9.js"
+    "static/js/main.7e0876c6.js"
   ]
 }
